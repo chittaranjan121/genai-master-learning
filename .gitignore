@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+*.env
+
+# VSCode
+.vscode/
+
+# Mac / Windows generated system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# virtual environment folders
+*.egg-info/
